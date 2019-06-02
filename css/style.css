@@ -1,0 +1,1084 @@
+header {
+	height: 120px;
+
+}
+
+h1 {
+	color: white;
+	display: inline-block;
+	margin-right: 570px;
+	margin-left: 100px;
+	font-size: 30px;
+}
+
+
+
+.header_item {
+	display: inline-block;
+	line-height: 200px;
+	padding: 0px 5px;
+	color: white;
+	cursor: pointer;
+}
+
+.header_item {
+	list-style: none;
+	margin-right: 20px;
+}
+
+
+
+.smart {
+	display: none;
+}
+
+.top_image {
+	height: 700px;
+	background: #4568DC;
+	background: -webkit-linear-gradient(to right, #B06AB3, #4568DC);
+	background: linear-gradient(to right, #B06AB3, #4568DC);
+
+}
+
+.main_top {
+	margin: 0 auto;
+	background-color: #f6f6f6;
+	padding: 100px 0px;
+
+}
+
+.main_box {
+	width: 450px;
+	margin: 0 auto;
+
+}
+
+.main_title {
+	font-size: 40px;
+	padding: 50px 0px;
+	text-align: center;
+	font-family: 'M PLUS 1p', sans-serif;
+
+}
+
+.title {
+	font-size: 35px;
+	padding: 15px 0px;
+	letter-spacing: 3px;
+	text-align: center;
+	font-family: 'M PLUS 1p', sans-serif;
+}
+
+.main_inner {
+	margin: 0 auto;
+	font-size: 20px;
+	line-height: 35px;
+	padding: 20px 0px;
+}
+
+.smart_title {
+	display: none;
+}
+
+.smart_inner {
+	display: none;
+}
+
+.product {
+	width: 1000px;
+	margin-left: 12%;
+	float: left;
+	padding-bottom: 100px;
+}
+
+.product_top {
+	float: left;
+	font-size: 30px;
+	font-family: 'Nanum Gothic', sans-serif;
+	letter-spacing: 3px;
+	margin-top: 100px;
+}
+
+.more {
+	float: right;
+	font-size: 14px;
+	border: solid 1px;
+	padding: 20px 75px;
+	letter-spacing: 3px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	transition: 0.3s;
+	cursor: pointer;
+}
+
+.more:hover {
+	background-color: black;
+	color: white;
+}
+
+
+.world_fes {
+	clear: both;
+	width: 300px;
+	height: 450px;
+	float: left;
+	margin-left: 50px;
+	transition: 0.3s;
+
+}
+
+.world_fes:hover {
+	opacity: 0.5;
+}
+
+.to_do {
+	width: 300px;
+	height: 450px;
+	float: left;
+	transition: 0.3s;
+}
+
+.to_do:hover {
+	opacity: 0.5;
+}
+
+.calender {
+	width: 300px;
+	height: 450px;
+	float: left;
+	transition: 0.3s;
+}
+
+.calender:hover {
+	opacity: 0.5;
+}
+
+.passport {
+	width: 300px;
+	height: 450px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 50px;
+	transition: 0.3s;
+}
+
+.passport:hover {
+	opacity: 0.5;
+}
+
+.alone {
+	width: 300px;
+	height: 450px;
+	float: left;
+	margin-top: 50px;
+	transition: 0.3s;
+}
+
+.alone:hover {
+	opacity: 0.5;
+}
+
+.card {
+	width: 300px;
+	height: 450px;
+	float: left;
+	margin-top: 50px;
+	transition: 0.3s;
+}
+
+.card:hover {
+	opacity: 0.5;
+}
+
+.img_box {
+	width: 250px;
+	height: 300px;
+	margin-left: 25px;
+	background: #ddd6f3;
+	background: -webkit-linear-gradient(to right, #faaca8, #ddd6f3);
+	background: linear-gradient(to right, #faaca8, #ddd6f3);
+
+
+
+}
+
+.box_inner {
+	color: white;
+	line-height: 300px;
+	text-align: center;
+}
+
+.product_book {
+	margin: 20px 0 0;
+	font-size: 20px;
+	padding: 0 20px;
+	line-height: 35px;
+	letter-spacing: 3px;
+}
+
+.to_do_book {
+	margin: 20px 0 0;
+	font-size: 20px;
+	padding-left: 23px;
+	padding-right: 23px;
+	letter-spacing: 5px;
+	line-height: 35px;
+}
+
+.calender_book {
+	margin: 20px 0 0;
+	font-size: 20px;
+	padding-left: 23px;
+	padding-right: 23px;
+	letter-spacing: 4px;
+	line-height: 35px;
+}
+
+.passport_book {
+	margin: 20px 0 0;
+	font-size: 20px;
+	padding-left: 23px;
+	padding-right: 23px;
+	letter-spacing: 2px;
+	line-height: 35px;
+}
+
+.alone_book {
+	margin: 20px 0 0;
+	font-size: 20px;
+	padding-left: 23px;
+	padding-right: 23px;
+	letter-spacing: 2px;
+	line-height: 35px;
+}
+
+.card_book {
+	margin: 20px 0 0;
+	font-size: 20px;
+	padding-left: 23px;
+	padding-right: 23px;
+	letter-spacing: 2px;
+	line-height: 35px;
+}
+
+.more_btn {
+	display: none;
+}
+
+.more a {
+	text-decoration: none;
+	color: black;
+
+}
+
+
+
+
+
+.news {
+	margin: 0 auto;
+	clear: both;
+	background-color: #f6f6f6;
+	padding-bottom: 350px;
+
+}
+
+.news_top {
+	font-size: 30px;
+	float: left;
+	margin-top: 100px;
+	margin-left: 170px;
+	letter-spacing: 3px;
+	font-family: 'Nanum Gothic', sans-serif;
+}
+
+.fes_news {
+	width: 1000px;
+	clear: both;
+	margin: 0 auto;
+	transition: 0.3s;
+	cursor: pointer;
+
+}
+
+.fes_news:hover {
+	opacity: 0.5;
+}
+
+.news_box {
+	width: 400px;
+	height: 200px;
+	float: left;
+	background: #f85032;
+	background: -webkit-linear-gradient(to right, #e73827, #f85032);
+	background: linear-gradient(to right, #e73827, #f85032);
+	color: white;
+	line-height: 200px;
+	text-align: center;
+}
+
+.news_more {
+	float: right;
+	font-size: 14px;
+	border: solid 1px;
+	padding: 20px 75px;
+	letter-spacing: 3px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	margin-right: 226px;
+	color: black;
+	cursor: pointer;
+	transition: 0.3s;
+
+}
+
+.news_more:hover {
+	background-color: black;
+	color: white;
+}
+
+
+
+.news_about {
+	width: 500px;
+	float: left;
+	margin-bottom: 100px;
+	margin-left: 20px;
+}
+
+.fes_news_title {
+	font-size: 18px;
+	line-height: 30px;
+}
+
+.time {
+	font-size: 12px;
+	padding: 10px 0px;
+	color: #656c6e;
+}
+
+.fes_inner {
+	font-size: 14px;
+	line-height: 20px;
+	color: #656c6e;
+}
+
+.travel {
+	width: 1000px;
+	clear: both;
+	margin: 0 auto;
+	transition: 0.3s;
+	cursor: pointer;
+}
+
+.travel:hover {
+	opacity: 0.5;
+}
+
+.travel_news_title {
+	font-size: 18px;
+	line-height: 30px;
+}
+
+.travel_inner {
+	font-size: 14px;
+	line-height: 20px;
+	color: #656c6e;
+}
+
+.world {
+	width: 1000px;
+	clear: both;
+	margin: 0 auto;
+	transition: 0.3s;
+	cursor: pointer;
+}
+
+.world:hover {
+	opacity: 0.5;
+}
+
+.world_title {
+	font-size: 18px;
+	line-height: 30px;
+}
+
+.world_inner {
+	font-size: 14px;
+	line-height: 20px;
+	color: #656c6e;
+}
+
+.christmas {
+	width: 1000px;
+	clear: both;
+	margin: 0 auto;
+	cursor: pointer;
+	transition: 0.3s;
+}
+
+.christmas:hover {
+	opacity: 0.5;
+}
+
+.christmas_title {
+	font-size: 18px;
+	line-height: 30px;
+}
+
+.christmas_inner {
+	font-size: 14px;
+	line-height: 20px;
+	color: #656c6e;
+}
+
+.new_year {
+	width: 1000px;
+	clear: both;
+	margin: 0 auto;
+	cursor: pointer;
+	transition: 0.3s;
+}
+
+.new_year:hover {
+	opacity: 0.5;
+}
+
+.new_year_title {
+	font-size: 18px;
+	line-height: 30px;
+}
+
+.new_year_inner {
+	font-size: 14px;
+	line-height: 20px;
+	color: #656c6e;
+}
+
+.rank_top {
+	width: 1000px;
+	clear: both;
+	margin: 0 auto;
+	cursor: pointer;
+	transition: 0.3s;
+
+}
+
+.rank_top:hover {
+	opacity: 0.5;
+}
+
+.rank_top_title {
+	font-size: 18px;
+	line-height: 30px;
+}
+
+.rank_top_inner {
+	font-size: 14px;
+	line-height: 20px;
+	color: #656c6e;
+}
+
+.news_more_btn {
+	display: none;
+}
+
+
+
+
+.main_bottom {
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	position: relative;
+}
+
+.facebook {
+	width: 180px;
+	height: 50px;
+	border: solid 1px;
+	display: inline-block;
+	margin-right: 20px;
+	color: #4871a9;
+	border-color: #4871a9;
+	cursor: pointer;
+	transition: 0.3s;
+}
+
+.facebook_inner {
+	font-size: 15px;
+	line-height: 50px;
+	text-align: center;
+}
+
+.facebook:hover {
+	background-color: #4871a9;
+	color: white;
+}
+
+.twitter {
+	width: 180px;
+	height: 50px;
+	border: solid 1px;
+	display: inline-block;
+	margin-right: 20px;
+	cursor: pointer;
+	transition: 0.3s;
+	color: #70bdd3;
+	border-color: #70bdd3;
+}
+
+.twitter_inner {
+	font-size: 15px;
+	line-height: 50px;
+	text-align: center;
+}
+
+.twitter:hover {
+	color: white;
+	background-color: #70bdd3;
+}
+
+.hatena {
+	width: 180px;
+	height: 50px;
+	border: solid 1px;
+	display: inline-block;
+	margin-right: 20px;
+	color: #2f9bcd;
+	border-color: #2f9bcd;
+	cursor: pointer;
+	transition: 0.3s;
+}
+
+.hatena_inner {
+	font-size: 15px;
+	line-height: 50px;
+	text-align: center;
+}
+
+.hatena:hover {
+	background-color: #2f9bcd;
+	color: white;
+}
+
+.line {
+	display: none;
+}
+
+.line_inner {
+	display: none;
+}
+
+nav {
+	background-color: #939899;
+
+}
+
+.bottom_list {
+	text-align: center;
+}
+
+.bottom_item {
+	display: inline-block;
+	padding: 28px;
+}
+
+.bottom_item a {
+	font-size: 13px;
+	text-decoration: none;
+	color: white;
+}
+
+.return {
+	position: absolute;
+	top: -20px;
+	left: 47%;
+	width: 60px;
+	height: 70px;
+	background-color: white;
+	border-radius: 50px;
+	line-height: 40px;
+
+}
+
+footer {
+	height: 200px;
+	background-color: #656c6e;
+}
+
+.footer_box {
+	width: 90px;
+	height: 90px;
+	background-color: white;
+	float: left;
+	margin-left: 300px;
+	margin-top: 60px;
+}
+
+.footer_box_inner {
+	line-height: 90px;
+	font-size: 10px;
+	text-align: center;
+}
+
+.footer_inner {
+	color: white;
+	float: right;
+	margin-right: 230px;
+	font-size: 13px;
+	line-height: 200px;
+}
+
+/*ヘッダー*/
+@media screen and (max-width:400px) {
+	header {
+		width: 400px;
+		height: 60px;
+		background-color: white;
+
+	}
+
+	.header_top {
+		display: none;
+
+	}
+
+	.smart {
+		color: #656c6e;
+		display: block;
+		font-size: 13px;
+		line-height: 60px;
+		margin-left: 15px;
+	}
+
+
+	.header_item {
+		display: none;
+	}
+
+	.smart_title {
+		display: block;
+		font-size: 28px;
+		color: white;
+		text-align: center;
+		padding-top: 250px;
+		padding-bottom: 10px;
+		letter-spacing: 5px;
+	}
+
+	.smart_inner {
+		display: block;
+		color: white;
+		text-align: center;
+		font-size: 5px;
+		letter-spacing: 3px;
+	}
+
+
+}
+
+/*メイン*/
+@media screen and (max-width:400px) {
+
+	/*main_top*/
+	.main_top {
+		width: 400px;
+		padding-top: 0px;
+		padding-bottom: 50px;
+	}
+
+	.main_title {
+		text-align: left;
+		padding-top: 50px;
+		padding-bottom: 20px;
+		padding-left: 20px;
+		font-size: 30px;
+		letter-spacing: 5px;
+	}
+
+	.main_inner {
+		font-size: 15px;
+		line-height: 25px;
+		padding-left: 20px;
+
+	}
+
+	.title {
+		text-align: left;
+		font-size: 24px;
+	}
+
+	/*プロダクト*/
+	.product {
+		width: 400px;
+		margin: 0 auto;
+
+	}
+
+	.product_top {
+		float: none;
+		text-align: center;
+		margin: 50px 0px;
+	}
+
+	.more {
+		display: none;
+	}
+
+	.world_fes {
+		float: none;
+		height: 400px;
+		margin-bottom: 20px;
+	}
+
+	.product_book {
+		font-size: 15px;
+		letter-spacing: 0px;
+		padding: 5px 0px;
+		text-align: center;
+	}
+
+	.to_do {
+		float: none;
+		margin: 0 auto;
+		height: 400px;
+		margin-bottom: 20px;
+	}
+
+	.to_do_book {
+		font-size: 15px;
+		letter-spacing: 0px;
+		padding: 5px 40px;
+	}
+
+	.calender {
+		float: none;
+		margin: 0 auto;
+		height: 400px;
+		margin-bottom: 20px;
+	}
+
+	.calender_book {
+		font-size: 15px;
+		letter-spacing: 0px;
+		padding: 5px 40px;
+	}
+
+	.passport {
+		float: none;
+		margin: 0 auto;
+		height: 400px;
+		margin-bottom: 20px;
+	}
+
+	.passport_book {
+		font-size: 15px;
+		letter-spacing: 0px;
+		padding: 5px 40px;
+	}
+
+	.alone {
+		float: none;
+		margin: 0 auto;
+		height: 400px;
+		margin-bottom: 20px;
+	}
+
+	.alone_book {
+		font-size: 15px;
+		letter-spacing: 0px;
+		padding: 5px 30px;
+	}
+
+	.card {
+		float: none;
+		margin: 0 auto;
+		height: 400px;
+	}
+
+	.card_book {
+		font-size: 15px;
+		letter-spacing: 0px;
+		padding: 10px 40px;
+	}
+
+	.more_btn {
+		font-size: 14px;
+		border: solid 1px;
+		width: 150px;
+		height: 40px;
+		text-align: center;
+		line-height: 40px;
+		margin: 0 auto;
+		display: block;
+		margin-bottom: 50px;
+
+	}
+
+	.more_btn a {
+		text-decoration: none;
+		color: black;
+	}
+
+	/*ニュース*/
+	.news {
+		width: 400px;
+		margin: 0 auto;
+		padding-bottom: 50px;
+	}
+
+	.news_top {
+		font-size: 30px;
+		margin: 0 auto;
+		text-align: center;
+		float: none;
+		padding-top: 100px;
+		margin-bottom: 100px;
+	}
+
+	.news_more {
+		display: none;
+	}
+
+	.fes_news {
+		width: 400px;
+		margin: 0 auto;
+	}
+
+	.news_box {
+		width: 350px;
+		height: 200px;
+		float: none;
+		margin: 0 auto;
+	}
+
+	.news_about {
+		width: 350px;
+		float: none;
+		margin: 0 auto;
+	}
+
+	.fes_news_title {
+		font-size: 17px;
+		letter-spacing: 1px;
+		padding: 8px 5px;
+		line-height: 30px;
+	}
+
+	.time {
+		padding: 0px 5px;
+	}
+
+	.fes_inner {
+		display: none;
+	}
+
+	.travel {
+		width: 400px;
+		margin: 0 auto;
+		margin-top: 50px;
+	}
+
+	.travel_news_title {
+		font-size: 18px;
+		letter-spacing: 1px;
+		padding: 8px 5px;
+		line-height: 30px;
+	}
+
+	.travel_inner {
+		display: none;
+	}
+
+	.world {
+		width: 400px;
+		margin: 0 auto;
+		margin-top: 50px;
+	}
+
+	.world_title {
+		font-size: 18px;
+		letter-spacing: 1px;
+		padding: 8px 5px;
+		line-height: 30px;
+	}
+
+	.world_inner {
+		display: none;
+	}
+
+	.christmas {
+		width: 400px;
+		margin: 0 auto;
+		margin-top: 50px;
+	}
+
+	.christmas_title {
+		font-size: 18px;
+		letter-spacing: 1px;
+		padding: 8px 5px;
+		line-height: 30px;
+	}
+
+	.christmas_inner {
+		display: none;
+	}
+
+	.new_year {
+		width: 400px;
+		margin: 0 auto;
+		margin-top: 50px;
+	}
+
+	.new_year_title {
+		font-size: 18px;
+		letter-spacing: 1px;
+		padding: 8px 5px;
+		line-height: 30px;
+	}
+
+	.new_year_inner {
+		display: none;
+	}
+
+	.rank_top {
+		width: 400px;
+		margin: 0 auto;
+		margin-top: 50px;
+		margin-bottom: 50px;
+	}
+
+	.rank_top_title {
+		font-size: 18px;
+		letter-spacing: 1px;
+		padding: 8px 5px;
+		line-height: 30px;
+	}
+
+	.rank_top_inner {
+		display: none;
+	}
+
+	.news_more_btn {
+		font-size: 14px;
+		border: solid 1px;
+		width: 150px;
+		height: 40px;
+		text-align: center;
+		line-height: 40px;
+		margin: 0 auto;
+		display: block;
+	}
+
+	.news_more_btn a {
+		text-decoration: none;
+		color: black;
+	}
+
+	/*シェア*/
+
+	.main_bottom {
+		width: 400px;
+	}
+
+	.return {
+		left: 43%;
+	}
+
+	.facebook {
+		width: 160px;
+		height: 40px;
+		display: inline-block;
+		margin: 0px;
+		margin-bottom: 10px;
+
+	}
+
+	.facebook_inner {
+		line-height: 40px;
+		font-size: 12px;
+	}
+
+	.twitter {
+		width: 160px;
+		height: 40px;
+		display: inline-block;
+		margin: 0px;
+		margin-bottom: 10px;
+	}
+
+	.twitter_inner {
+		line-height: 40px;
+		font-size: 12px;
+	}
+
+	.hatena {
+		width: 160px;
+		height: 40px;
+		display: inline-block;
+		margin: 0px;
+	}
+
+	.hatena_inner {
+		line-height: 40px;
+		font-size: 12px;
+	}
+
+	.line {
+		width: 160px;
+		height: 40px;
+		border: solid 1px;
+		display: inline-block;
+		margin: 0px;
+		color: #8ec09d;
+		border-color: #8ec09d;
+	}
+
+	.line_inner {
+		display: inline-block;
+		line-height: 40px;
+		font-size: 12px;
+
+	}
+
+	nav {
+		width: 400px;
+		margin: 0 auto;
+	}
+
+	.bottom_item {
+		padding: 20px;
+		display: block;
+		border-bottom: solid 1px white;
+	}
+
+
+}
+
+/*フッター*/
+@media screen and (max-width:400px) {
+	footer {
+		width: 400px;
+		margin: 0 auto;
+		padding-top: 40px;
+	}
+
+	.footer_box {
+		margin: 0 auto;
+		margin-bottom: 50px;
+		float: none;
+		display: block;
+	}
+
+	.footer_inner {
+		width: 300px;
+		float: none;
+		text-align: center;
+		margin: 0 auto;
+		font-size: 10px;
+		line-height: 20px;
+		display: block;
+		letter-spacing: 1px;
+	}
+}
