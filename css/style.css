@@ -7,7 +7,7 @@ header {
 .header_top {
 	color: white;
 	display: inline-block;
-	margin-right: 550px;
+	margin-right: 480px;
 	margin-left: 130px;
 	font-size: 30px;
 }
@@ -17,7 +17,7 @@ header {
 .header_item {
 	display: inline-block;
 	line-height: 200px;
-	font-size: 15px;
+	font-size: 18px;
 	color: white;
 	cursor: pointer;
 }
