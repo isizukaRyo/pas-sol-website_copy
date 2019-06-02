@@ -707,7 +707,10 @@ footer {
 	.title {
 		text-align: left;
 		font-size: 24px;
+		margin-left: 12px;
 	}
+
+
 
 	/*プロダクト*/
 	.product {
